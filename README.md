@@ -1,4 +1,4 @@
-# telos-evm-docker
+# TElos-EVM-Docker
 ## Docker containers for local EVM development and building automated tests
 
 ## Overview
